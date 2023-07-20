@@ -164,5 +164,119 @@ a img{
     margin-right: -15%;
     border-radius: 25px;
 }
+/* card - 6 */
 
+.content-div{
+    padding-top: 140px;
+}
 
+.content-div h1{
+    text-align: center;
+    color: #CCD6F6
+}
+.content-div h6{
+    color: #62FBD8;
+    text-align: center;
+}
+
+.content-div span .img1{
+    width: auto;
+    height: 38%;
+    margin-left: 25px;
+}
+
+.content-div span .img2{
+    width: auto;
+    height: 30%;
+    margin-left: 100px;
+    color: white!important;
+}
+
+.card10{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    height: 350px;
+}
+
+.card10 .card-title{
+    color: #CCD6F6;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: 25px;
+} 
+
+.card10 .card-text{
+    margin-top: 23px;
+    color: #CCD6F6;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+} 
+
+.card10 span{
+    color: #62FBD8;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.content-div{
+    padding: 20% 10% 0 0;
+}
+
+/* new content section */
+.new-div-content{
+    padding-top: 200px;
+    padding-left: 20%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+    
+}
+.new-div-content .color{
+    color: #62FBD8;
+    text-align: center;
+}
+.new-div-content h2{
+    font-size: 3.2rem;
+    color: #CCD6F6;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.new-div-content .left{
+    color: #8892B0;
+    text-align: center;
+    margin: 3% 28% 0 28%;
+    text-align: calc(50% - 50px);
+
+}
+
+.btn-div2{
+    text-align: center;
+    margin-top: 4%;
+    padding: 6px;
+    font-size: 25px!important;
+}
+
+.btn-div2:hover{
+    color: #62FBD8;
+}
+
+/* footer */
+.footer-div{
+    padding-top: 100px;
+}
+
+.footer-div p{
+    color: #62FBD8;
+    text-align: right;
+    font-size: 0.9rem;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0a192f;
+    margin-left: 70%;
+    padding: 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+
+}
